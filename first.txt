@@ -2,3 +2,4 @@ Git Start
 file_info1
 first_file行追加
 git status
+git diff
